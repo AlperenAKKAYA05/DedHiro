@@ -1,0 +1,19 @@
+Private Beta = Özel test sürümü anlamý taþýr. Eðer bir oyun henüz özel test aþamasýnda ise Private Beta terimi ile karþýlaþýrsýnýz.
+Bu sürüm genellikle oyunun yapýmcý ekibi tarafýndan kullanýlýr ve çok kýsa bir süre için aktif olur.
+
+Open Beta = Açýk deneme sürümü anlamýný taþýr. Finalden önceki sürümdür ve herkes tarafýndan indirilip oynanabilir.
+Oyuncular isterlerse bu oyunu test edip envanter almaya, karakter yaratmaya bile baþlayabilirler. Çünkü genellikle final sürümü çýkýp yükselme 
+yapýldýðýnda kullanýcýlar oyunlarýna yine kaldýklarý yerden devam edebilir. Tabii level derecesi sýfýrlanacaktýr.
+
+Pre-OBT = Sadece para ile oynayan premium oyunculara özel olarak açýlan sürümdür.  Bu sürüm açýldýðýnda premiumlar kasmaya baþlar ve 
+final sürümü açýldýðýnda diðer oyunculardan daha ayrýcalýklý olarak oyuna baþlayacaklardýr. 
+Çünkü Pre-OBT sürümünde yaptýklarý final sürümüne de taþýnacak, haliyle  rakiplerinden 2-0 önde baþlayacaklardýr.
+Bu sistem pek çok oyuncu tarafýndan adaletsizlik olarak görülerek tepki gösterilmektedir.
+
+Pre-CBT = Bu sürüm de yine premium oyuncular için özeldir fakat OBT’den farký bu sürümde yapýlanlar final sürümüne taþýnmaz. 
+Yani premium oyuncularýn tek avantajý oyunu erkenden oynayýp tecrübe edinmek olur. Onun haricinde envanter ve karakter geliþimleri finale taþýnmaz.
+
+FinalFinal Closed = Oyunun sunulan son sürümüdür. Test edilip onaylandýðýnda artýk hayata geçirilen yegane sürüm budur. 
+Eðer bir oyunun yanýnda yukarýdaki oyun terimlerinden biri bulunmuyorsa bilin ki final sürümüdür.
+
+Final Closed = Oyunun final  sürümü tamamen kapatýlmýþ anlamýna gelir.
